@@ -24,7 +24,7 @@ Insert a following line to top of your sketch.
 
 ### Call a function
 
-Call function like following...
+Call a function like following...
 
 ```
 IFTTT.trigger(IFTTT_WEBHOOK_NAME, IFTTT_KEY);
